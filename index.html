@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guilherme Augusto</title>
+</head>
+<body>
+  <h1>Olá, eu sou o Guilherme! 👋</h1>
+  <p>🎓 Olá! Eu sou o Guilherme, tenho <span id="age"></span> anos e sou um desenvolvedor apaixonado por tecnologias web.</p>
+
+  <script>
+    function calculateAge(birthDate) {
+      const today = new Date();
+      const birthDateObj = new Date(birthDate);
+      let age = today.getFullYear() - birthDateObj.getFullYear();
+      const monthDiff = today.getMonth() - birthDateObj.getMonth();
+      if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDateObj.getDate())) {
+        age--;
+      }
+      return age;
+    }
+
+    document.getElementById('age').innerText = calculateAge('1997-07-20'); // Use sua data de nascimento aqui
+  </script>
+</body>
+</html>
