@@ -67,6 +67,8 @@
 
 ## My Website
 
+If you need to get in touch with me, I also work as a freelance programmer.
+
 ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 ## Knowledge and Interests
