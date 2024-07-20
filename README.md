@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-🎓 Olá! Eu sou o Guilherme, tenho <span id="age"></span> anos e sou um desenvolvedor apaixonado por tecnologias web.
+🎓 Olá! Eu sou o Guilherme, tenho atualmente 26  anos e sou um desenvolvedor apaixonado por tecnologias web.
 
 ## Habilidades
 
@@ -65,7 +65,12 @@
 
 ## Meu Website
 
-🌐 **[Visite meu website](https://guilhermeviana.com/)**
+![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)
+
+## Conhecimentos e Interesses
+
+🎨 **Desenho e Design**: Conhecimentos em Figma e UX/UI  
+🎵 **Hobbies**: Música e Jogos
 
 ---
 
