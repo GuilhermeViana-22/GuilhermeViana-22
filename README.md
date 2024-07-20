@@ -72,7 +72,17 @@
 ## Knowledge and Interests
 
 🎨 **Drawing and Design**: Knowledge in Figma and UX/UI  
-🎵 **Hobbies**: Music and Games
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+🎵 **Sometimes I take time to study games**:
+
+![GameMaker Language](https://img.shields.io/badge/GameMaker%20Language-4B9DFF?style=for-the-badge&logo=game-maker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-358F42?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
