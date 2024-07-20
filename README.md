@@ -24,7 +24,11 @@
 
 ## Commits
 
-![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeViana-22&theme=radical)
+![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeViana-22&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)
+
+## WakaTime
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeViana-22&layout=compact&theme=radical)
 
 ## Ferramentas
 
