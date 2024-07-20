@@ -70,6 +70,8 @@
 If you need to get in touch with me, I also work as a freelance programmer.
 
 ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-0092FF?style=for-the-badge&logo=hostinger&logoColor=white)
+
 
 ## Knowledge and Interests
 
