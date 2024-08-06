@@ -70,9 +70,12 @@
 
 #I also stream on Twitch! 🎮🚀
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
 You can follow me on Twitch to see my live streams and more!
+
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guilherme_viana_play)
+
+
+
 
 
 ## My Website
