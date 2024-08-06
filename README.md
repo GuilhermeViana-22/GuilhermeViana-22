@@ -67,6 +67,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-augusto-557689122/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/guilhermeviana6940)
 
+
+#I also stream on Twitch! 🎮🚀
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+You can follow me on Twitch to see my live streams and more!
+
+
 ## My Website
 
 If you need to get in touch with me, I also work as a freelance programmer.
