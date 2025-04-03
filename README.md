@@ -32,6 +32,13 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 
+
+## Currently studying
+![N8N](https://img.shields.io/badge/N8N-00B98A?style=for-the-badge&logo=n8n&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+
 ## Favorite Distros
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
