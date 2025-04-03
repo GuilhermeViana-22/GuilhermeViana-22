@@ -35,7 +35,6 @@
 
 ## Currently studying
 ![N8N](https://img.shields.io/badge/N8N-FF7E89?style=for-the-badge&logo=n8n&logoColor=white)
-
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-9370DB?style=for-the-badge&logo=laravel&logoColor=white)
 
