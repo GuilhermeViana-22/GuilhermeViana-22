@@ -44,8 +44,6 @@
 
 ## GitHub Statistics
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeViana-22&show_icons=true&bg_color=000000&title_color=38A169&text_color=ffffff&icon_color=38A169&border_color=2F855A)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana-22&layout=compact&bg_color=000000&title_color=38A169&text_color=ffffff&border_color=2F855A)
 
 ## Commits
