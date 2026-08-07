@@ -1,62 +1,69 @@
-
-<!-- Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Go%20Enthusiast&descAlignY=58"/>
 </p>
 
-<h3 align="center">
-  Full Stack Developer – Laravel Specialist – Vue.js
-</h3>
+<h1 align="center">Hello, I'm Guilherme Viana </h1>
 
 <p align="center">
-  Relational SQL/NoSQL – RESTful APIs – End-to-End Systems<br>
-  n8n Automations – LangChain & LLM Integrations<br>
-  RAG Architecture – Vector Databases
+Full Stack Developer • Go Developer • Laravel • Vue.js • Cloud • DevOps •  RAG Architecture
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeViana-22&style=for-the-badge&color=7B2CBF"/>
+</p>
 
 ---
 
-# About Me
+#  About Me
 
-I'm a Full Stack Developer passionate about building scalable applications, robust APIs and intelligent software solutions.
+ I'm a **Full Stack Developer** passionate about building scalable applications, backend architectures, APIs and cloud solutions.
 
-My experience involves developing complete systems, from backend architecture and databases to modern frontend applications.
+ I enjoy learning new technologies, creating SaaS products, and solving complex problems through clean and maintainable code.
 
-Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Systems, Cloud Infrastructure, Observability and Artificial Intelligence.
-
+Currently I'm focused on becoming a **Backend Engineer specialized in Go**, while improving my knowledge in cloud infrastructure and distributed systems.
 
 ---
 
-# Skills
+# 💻 Skills
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=go"/>
+
 <img src="https://skillicons.dev/icons?i=php"/>
+
 <img src="https://skillicons.dev/icons?i=laravel"/>
+
 <img src="https://skillicons.dev/icons?i=vue"/>
+
 <img src="https://skillicons.dev/icons?i=typescript"/>
+
 <img src="https://skillicons.dev/icons?i=javascript"/>
+
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=redis"/>
+
 <img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
 <img src="https://skillicons.dev/icons?i=linux"/>
+
 <img src="https://skillicons.dev/icons?i=git"/>
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
 
-
 ---
 
-# Currently Studying
+# 📚 Currently Studying
 
 <p>
 
@@ -68,32 +75,31 @@ Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Sys
 
 <img src="https://img.shields.io/badge/Microservices-5A189A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenTelemetry-412991?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/RAG%20Architecture-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-6A00F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-412991?style=for-the-badge"/>
 
 </p>
 
-
 ---
 
-# Favorite Distros
+# 🐧 Favorite Distros
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=ubuntu"/>
+
 <img src="https://skillicons.dev/icons?i=debian"/>
 
 </p>
 
-
 ---
 
-# GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -103,10 +109,9 @@ Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Sys
 
 </p>
 
-
 ---
 
-# Commit Activity
+# 🔥 Commits
 
 <p align="center">
 
@@ -114,10 +119,9 @@ Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Sys
 
 </p>
 
-
 ---
 
-# Profile Overview
+# 📈 Profile Stats
 
 <p align="center">
 
@@ -125,47 +129,40 @@ Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Sys
 
 </p>
 
-
 ---
 
-# Tools
+# 🛠 Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=goland"/>
-<img src="https://skillicons.dev/icons?i=phpstorm"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=goland"/>
+
+<img src="https://skillicons.dev/icons?i=phpstorm"/>
+
 <img src="https://skillicons.dev/icons?i=postman"/>
+
 <img src="https://skillicons.dev/icons?i=docker"/>
+
 <img src="https://skillicons.dev/icons?i=linux"/>
+
 <img src="https://skillicons.dev/icons?i=git"/>
 
 </p>
 
-
 ---
 
-# Projects & Interests
-
-- Backend Engineering
-- Artificial Intelligence
-- LLM Applications
-- RAG Systems
-- SaaS Platforms
-- Clean Architecture
-- Cloud Computing
-- DevOps
-- UX/UI Design
-
-
----
-
-# Contact
+# 📬 Contact
 
 <p>
 
 <a href="https://github.com/GuilhermeViana-22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://guilhermeviana.com">
@@ -174,15 +171,36 @@ Currently, I'm deepening my knowledge in Go, Clean Architecture, Distributed Sys
 
 </p>
 
+---
+
+# 🎮 I also stream on Twitch!
+
+I occasionally stream coding sessions, backend development, gameplays and tech content.
 
 ---
 
-# Twitch
+# 🌐 My Website
 
-I also stream programming sessions, technology content and gaming.
+If you need a website, backend API or a custom software solution, feel free to get in touch.
+
+---
+
+# 🎨 Knowledge & Interests
+
+-  Drawing
+-  UI/UX
+-  Figma
+-  Cloud Computing
+-  Clean Architecture
+-  Docker
+-  DevOps
+-  SaaS
+-  Artificial Intelligence
 
 ---
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:8A2BE2&height=120&section=footer"/>
+
 </p>
