@@ -3,21 +3,18 @@
 <p align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%93%20Laravel%20Specialist%20%E2%80%93%20Vue.js%20%E2%80%93%20Relational%20SQL%2FNoSQL%20%E2%80%93%20RESTful%20APIs%20%E2%80%93%20End-to-End%20Systems%20%E2%80%93%20n8n%20Automations%20%E2%80%93%20LangChain%20%26%20LLM%20Integrations%20%E2%80%93%20RAG%20Architecture%20%E2%80%93%20Vector%20Databases&descSize=17&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   />
 </p>
 
-
-<h1 align="center">
-  Hello, I'm Guilherme Viana
-</h1>
-
-<p align="center">
-  Full Stack Developer focused on scalable systems, backend architecture and AI integrations.
-</p>
+<h3 align="center">
+  Full Stack Developer – Laravel Specialist – Vue.js
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuilhermeViana-22&style=for-the-badge&color=7B2CBF"/>
+  Relational SQL/NoSQL – RESTful APIs – End-to-End Systems<br>
+  n8n Automations – LangChain & LLM Integrations<br>
+  RAG Architecture – Vector Databases
 </p>
 
 
