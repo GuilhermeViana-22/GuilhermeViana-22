@@ -1,7 +1,9 @@
 <!-- Animated Header -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Go%20Enthusiast&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Go%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Vue.js%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20RAG%20Architecture&descSize=18&descAlignY=58&descColor=ffffff"/>
 </p>
+
 
 <h1 align="center">Hello, I'm Guilherme Viana </h1>
 
