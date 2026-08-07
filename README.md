@@ -118,25 +118,87 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
+
 # 🛠 Tools
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+### IDEs & Editors
 
-<img src="https://skillicons.dev/icons?i=goland"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,phpstorm,goland,pycharm,rider,clion,datagrip,androidstudio" />
 
-<img src="https://skillicons.dev/icons?i=phpstorm"/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=docker"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+### Development Tools
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JetBrains_Toolbox-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white"/>
+
+
+<br/><br/>
+
+###  API & Database Tools
+
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
+
+
+<br/><br/>
+
+### Management & Productivity
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
+
+<br/><br/>
+
+###  Design Tools
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+
+
+<br/><br/>
+
+### Video Editing
+
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+
+<br/><br/>
+
+### Marketing & Analytics
+
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+
+</div>
 
 ---
 
