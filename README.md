@@ -31,11 +31,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-## Currently studying
 ![N8N](https://img.shields.io/badge/N8N-FF7E89?style=for-the-badge&logo=n8n&logoColor=white)
+
+## Currently studying
+
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-9370DB?style=for-the-badge&logo=laravel&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ## Favorite Distros
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
