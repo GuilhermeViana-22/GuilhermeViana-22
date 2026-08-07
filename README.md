@@ -24,7 +24,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 💻 Skills
+# Skills
 
 <p>
 
@@ -62,7 +62,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 📚 Currently Studying
+# Currently Studying
 
 <p>
 
@@ -86,7 +86,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 🐧 Favorite Distros
+# Favorite Distros
 
 <p>
 
@@ -98,7 +98,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 🔥 Commits
+# Commits
 
 <p align="center">
 
@@ -108,7 +108,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 📈 Profile Stats
+#  Profile Stats
 
 <p align="center">
 
@@ -140,7 +140,7 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 ---
 
-# 📬 Contact
+# Contact
 
 <p>
 
@@ -172,7 +172,7 @@ If you need a website, backend API or a custom software solution, feel free to g
 
 ---
 
-# 🎨 Knowledge & Interests
+#  Knowledge & Interests
 
 -  Drawing
 -  UI/UX
