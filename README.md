@@ -1,101 +1,206 @@
-# Hello, I am Guilherme Viana! 👋
+<!-- Animated Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:4B0082,100:8A2BE2&text=Guilherme%20Viana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Go%20Enthusiast&descAlignY=58"/>
+</p>
 
-[![Welcome to my profile](https://img.shields.io/badge/Welcome%20to%20my%20profile-GitHub-%2338A169)](https://github.com/GuilhermeViana-22)
-[![Followers](https://img.shields.io/github/followers/GuilhermeViana-22?style=social&labelColor=%2338A169)](https://github.com/GuilhermeViana-22)
-[![Stars](https://img.shields.io/github/stars/GuilhermeViana-22?style=social&labelColor=%2338A169)](https://github.com/GuilhermeViana-22)
+<h1 align="center">Hello, I'm Guilherme Viana 👋</h1>
 
-## About Me
+<p align="center">
+Full Stack Developer • Go Developer • Laravel • Vue.js • Cloud • DevOps
+</p>
 
-🎓 Currently, I work as a Full Stack developer, but I continue studying new technologies and continuously improving my skills. I love everything that involves the world of technology and keep growing over time.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeViana-22&style=for-the-badge&color=7B2CBF"/>
+</p>
 
-## Skills
+---
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
-![SlimPHP](https://img.shields.io/badge/Slim-74BDBB?style=for-the-badge&logo=slim&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+# 🚀 About Me
 
-![N8N](https://img.shields.io/badge/N8N-FF7E89?style=for-the-badge&logo=n8n&logoColor=white)
+🎓 I'm a **Full Stack Developer** passionate about building scalable applications, backend architectures, APIs and cloud solutions.
 
-## Currently studying
+💜 I enjoy learning new technologies, creating SaaS products, and solving complex problems through clean and maintainable code.
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-9370DB?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-## Favorite Distros
+Currently I'm focused on becoming a **Backend Engineer specialized in Go**, while improving my knowledge in cloud infrastructure and distributed systems.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-4A90D9?style=for-the-badge&logo=zorin&logoColor=white)
+---
 
-## GitHub Statistics
+# 💻 Skills
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana-22&layout=compact&bg_color=000000&title_color=38A169&text_color=ffffff&border_color=2F855A)
+<p>
 
-## Commits
+<img src="https://skillicons.dev/icons?i=go"/>
 
-![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeViana-22&bg_color=000000&color=ffffff&line=38A169&point=ffffff&area=true&hide_border=true&title_color=38A169)
+<img src="https://skillicons.dev/icons?i=php"/>
 
-## Profile Stats
+<img src="https://skillicons.dev/icons?i=laravel"/>
 
-![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeViana-22&theme=vue)
+<img src="https://skillicons.dev/icons?i=vue"/>
 
-## Tools
+<img src="https://skillicons.dev/icons?i=typescript"/>
 
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-## Contact
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-augusto-557689122/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/guilhermeviana6940)
+<img src="https://skillicons.dev/icons?i=docker"/>
 
-# I also stream on Twitch! 🎮🚀
+<img src="https://skillicons.dev/icons?i=redis"/>
 
-You can follow me on Twitch to see my live streams and more!
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guiviana_play)
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-## My Website
+<img src="https://skillicons.dev/icons?i=linux"/>
 
-If you need to get in touch with me, I also work as a freelance programmer.
+<img src="https://skillicons.dev/icons?i=git"/>
 
-![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-0092FF?style=for-the-badge&logo=hostinger&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github"/>
 
-## Knowledge and Interests
+<img src="https://skillicons.dev/icons?i=figma"/>
 
-🎨 **Drawing and Design**: Knowledge in Figma and UX/UI  
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+---
 
-🎵 **Sometimes I take time to study games**:
+# 📚 Currently Studying
 
-![GameMaker Language](https://img.shields.io/badge/GameMaker%20Language-4B9DFF?style=for-the-badge&logo=game-maker&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-358F42?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DDD-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Observability-6A00F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-412991?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐧 Favorite Distros
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
+
+<img src="https://skillicons.dev/icons?i=debian"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana-22&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana-22&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Commits
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeViana-22&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Profile Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeViana-22&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=goland"/>
+
+<img src="https://skillicons.dev/icons?i=phpstorm"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+---
+
+# 📬 Contact
+
+<p>
+
+<a href="https://github.com/GuilhermeViana-22">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://guilhermeviana.com">
+<img src="https://img.shields.io/badge/Website-7B2CBF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🎮 I also stream on Twitch!
+
+I occasionally stream coding sessions, backend development, gameplays and tech content.
+
+---
+
+# 🌐 My Website
+
+If you need a website, backend API or a custom software solution, feel free to get in touch.
+
+---
+
+# 🎨 Knowledge & Interests
+
+- 🎨 Drawing
+- 🎨 UI/UX
+- 🖌️ Figma
+- ☁️ Cloud Computing
+- 🏗 Clean Architecture
+- 🐳 Docker
+- ⚙️ DevOps
+- 🚀 SaaS
+- 🤖 Artificial Intelligence
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:8A2BE2&height=120&section=footer"/>
+
+</p>
