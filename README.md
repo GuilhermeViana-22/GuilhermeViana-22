@@ -100,13 +100,16 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 
 # 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana-22&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana-22&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana-22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
 
 ---
 
