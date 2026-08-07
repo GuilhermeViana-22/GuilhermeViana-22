@@ -97,17 +97,6 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 </p>
 
 ---
-
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana-22&show_icons=true&theme=tokyonight"/>
-
-</div>
-
-
 ---
 
 # 🔥 Commits
