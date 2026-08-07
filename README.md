@@ -97,7 +97,6 @@ Currently I'm focused on becoming a **Backend Engineer specialized in Go**, whil
 </p>
 
 ---
----
 
 # 🔥 Commits
 
